@@ -1,0 +1,414 @@
+﻿Names,state,statute_id,statute_name,estimated_amount,penalty type,year,penalty_amt_min,peanlty_amt_max,penalty_amt_fixed,other_penalty,notes
+Clark,idaho,id_1,idaho code § 18-112,$0 - $50000,punishment for felony,1972,,"$5,000 ",,,All felonies can give you prison time of 5 years and fine if not stated otherwise
+Clark,idaho,id_3,idaho code § 18-113,$0 - $1000,punishment for misdemeanor,1972,,$300 ,,,Misdemenors can also get a fine if not otherwise specified (or jail)
+Clark,idaho,id_05,idaho code § 18-303,$0 - $500,common law offenses  punishment  imprisonment for nonpayment of fine,1972,,$500 ,,,Misdamenors under common law without listed with a punishment can get a fee of 500
+Clark,idaho,id_06,idaho code § 18-401,$0 - $500,desertion and nonsupport of children or spouse,1972,,$500 ,,,Fine for abandoning wife or child
+Clark,idaho,id_11,idaho code § 18-701,$0 - $5000,refusal of officer to make arrest,1972,,"$5,000 ",,,Refusal of officer to arrest someone
+Clark,idaho,id_12,idaho code § 18-704,$0 - $5000,inhuman treatment of prisoners,1972,,"$5,000 ",,,Abusing prisoners
+Clark,idaho,id_13,idaho code § 18-705,$0 - $1000,resisting and obstructing officers,1972,,,,,
+Clark,idaho,id_14,idaho code § 18-706,$0 - $5000,unnecessary assaults by officers,1972,,"$5,000 ",,,Unececary use of force in arrest
+Clark,idaho,id_24,idaho code § 18-1001,$0 - $500,common barratry,1972,,$500 ,,,Common barratray
+Clark,idaho,id_25,idaho code § 18-1103,$0 - $2000,punishment for bigamy,1972,,"$2,000 ",,,Bigamy
+Clark,idaho,id_26,idaho code § 18-1104,$0 - $2000,marrying spouse of another,1972,,"$2,000 ",,,Knowingly marrying someone who is married
+Julia,idaho,id_37,idaho code § 18-1511,$0 - $1002,sale or barter of child for adoption or other purpose penalized-allowed expenses,1972,n/a,n/a,"$5,000 ",fine and/or imprisonment,"punished by imprisonment in the state penitentiary for no more than fourteen (14) years, or by a fine of no more than five thousand dollars ($5,000), or by fine and/or imprisonment.
+"
+Julia,idaho,id_38,idaho code § 18-1512,$0 - $1003,medical bills payment for child to be adopted or mother an exception,1972,n/a,n/a,n/a,n/a,exception
+Julia,idaho,id_39,idaho code § 18-1513,$0 - $1004,"obscene materials, dissemination to minors, policy",1972,n/a,n/a,n/a,n/a,no penalty laid out
+Julia,idaho,id_40,idaho code § 18-1514,$0 - $1005,"obscene materials, definitions",1972,n/a,n/a,n/a,$250 ,"any minor, parent, or legal guardian who prevails in an action brought under this section may recover two hundred fifty dollars ($250) in statutory damages as well as actual damages"
+Julia,idaho,id_41,idaho code § 18-1515,$0 - $1006,disseminating material harmful to minors,1972,n/a,n/a,"$1,000 ",fine and/or imprisonment,"punishable by confinement in the county jail not to exceed one (1) year, or by a fine not to exceed one thousand dollars ($1,000), or by both such fine and jail sentence."
+Julia,idaho,id_42,idaho code § 18-1516,$0 - $1007,"misrepresentations, parenthood or age, misdemeanor",1972,n/a,n/a,n/a,n/a,no penalty laid out
+Julia,idaho,id_43,idaho code § 18-1517,$0 - $1008,"disseminating material harmful to minors, defenses",1972,n/a,n/a,n/a,n/a,no penalty laid out
+Julia,idaho,id_44,idaho code § 18-1518,$0 - $1009,"tie in sales of prohibited materials, misdemeanor",1972,n/a,n/a,n/a,misdemeanor,no penalty laid out
+Julia,idaho,id_45,idaho code § 18-1519,$0 - $1010,prohibited item dissemination,1972,n/a,n/a,n/a,n/a,"each article or item of material prohibited under this statute shall constitute a separate offense
+"
+Julia,idaho,id_46,idaho code § 18-1520,$0 - $1011,"district courts, injunctions, trial, orders of injunction",1972,n/a,n/a,n/a,n/a,no penalty laid out
+Julia,idaho,id_47,idaho code § 18-1521,$0 - $1012,"uniform enforcement, abrogation of existing ordinances, further local ordinances banned",1972,n/a,n/a,n/a,n/a,no penalty laid out
+Nuhamin,idaho,id_78,idaho code § 18-3611,$0 - $1000,counterfeiting railroad ticket,1972,n/a,n/a,"$1,000 ",,"could be punished by imprisonment in the state prison, or in the county jail, not exceeding one (1) year"
+Nuhamin,idaho,id_79,idaho code § 18-3612,$0 - $1000,restoring canceled railroad tickets,1972,n/a,n/a,"$1,000 ",,punishable by imprisonment in the county jail not exceeding six (6) months
+Nuhamin,idaho,id_80,idaho code § 18-3613,$100 - $1000,simulation of switch and car keys,1972,$100 ,"$1,000 ",n/a,,could be punished by imprisonment in the county jail not less than thirty (30) days nor more than six (6) months.
+Nuhamin,idaho,id_81,idaho code § 18-3619,$0 - $200,slugs or counterfeited coins  penalty for use in vending machines or coin-boxes,1972,n/a,n/a,$200 ,,imprisoned not more than sixty (60) days
+Nuhamin,idaho,id_82,idaho code § 18-3620,$0 - $200,slugs or counterfeited coins  penalty for manufacture or sale,1972,n/a,n/a,$200 ,,imprisoned not more than sixty (60) days
+Nuhamin,idaho,id_83,idaho code § 18-3809,$0 - $1000,bookmaking and pool selling,1972,n/a,n/a,"$1,000 ",,could be punished by imprisonment in the county jail for a period of not more than six (6) months
+Nuhamin,idaho,id_85,idaho code § 18-3906,$150 - $2500,placing debris on highways,1972,$150 ,"$2,500 ",n/a,could be punished by imprisonment in the county jail not exceeding six (6) months,"first conviction: $150, 2nd conviction: $300, 3rd conviction: $1000"
+Nuhamin,idaho,id_86,idaho code § 18-3907,$50 - $100,flooding highways,1972,n/a,n/a,n/a,n/a,n/a
+Nuhamin,idaho,id_87,idaho code § 18-3910,$0 - $20,evasion of toll,1972,n/a,n/a,$20 ,,
+Nuhamin,idaho,id_90,idaho code § 18-4616,$0 - $1000,defacing marks on logs or lumber,1972,n/a,n/a,"$1,000 ",,could be punished by imprisonment in the county jail not exceeding six (6) months
+Nuhamin,idaho,id_91,idaho code § 18-4620,$0 - $60,stealing rides-punishment,1972,n/a,n/a,$60 ,,could be punished by imprisonment in the county jail for a period not exceeding thirty days
+Nuhamin,idaho,id_92,idaho code § 18-4621,$0 - $1000,stealing electric current,1972,n/a,n/a,"$1,000 ",,could be punished by imprisonment in the county jail for a period not exceeding 6 months
+Nuhamin,idaho,id_93,idaho code § 18-4626,$0 - $1000,"willful concealment of goods, wares or merchandise-defense for detention",1972,n/a,n/a,"$1,000 ",,could be punished by imprisonment in the county jail for a period not exceeding 6 months
+Nuhamin,idaho,id_95,idaho code § 18-4802,$0 - $5000,punishment for libel,1972,n/a,n/a,"$5,000 ",,could be punished by imprisonment in the county jail for a period not exceeding 6 months
+Nuhamin,idaho,id_96,idaho code § 18-5503,$0 - $500,punishment for violation of preceding section (denatured alcohol-regulation of sale and transfer),1972,n/a,n/a,$500 ,,could be punished by imprisonment in the county jail for a period not exceeding 6 months
+Nuhamin,idaho,id_98,idaho code § 18-5602,$1000 - $50000,procurement-definition and penalty,1972,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+Nuhamin,idaho,id_99,idaho code § 18-5603,$1000 - $50000,receiving pay for procurement,1972,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+Nuhamin,idaho,id_100,idaho code § 18-5604,$1000 - $50000,paying for procurement,1972,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+Nuhamin,idaho,id_101,idaho code § 18-5605,$1000 - $50000,detention for prostitution,1972,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+Nuhamin,idaho,id_104,idaho code § 18-5608,$0 - $50000,inducing person under eighteen years of age into prostitution-penalties,1972,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+Guiselle,idaho,id_107,idaho code § 18-5807,$0 - $100,"leaving carcasses near highways, dwellings and streams, and pollution of water used for domestic purposes",1972,n/a,n/a,$100 ,n/a,"Within a mile of any inhabited dwelling, or on, along or within a quarter of a mile of any public highway or stream of water, for a longer period than twenty-four hours, without burying the same and by such exposure of burial within 200 feet of any stream shall be guilty of a misdemeanor and upon conviction shall be fined a fee not to exceed."
+Guiselle,idaho,id_111,idaho code § 18-6006,$0 - $50000,injuring railroad property,1972,n/a,n/a,n/a,n/a,
+Guiselle,idaho,id_116,idaho code § 18-6306,$200 - $1000,tax collector-neglect of duty,1972,$200 ,"$1,000 ",n/a,n/a,"He is guilty of a misdemanor in office, and shall be punished by imprisonment in the county jail not more than one year, or by a fine not less than  or by such fine and imprisonment and shall be forthwith removed from office,"
+Guiselle,idaho,id_117,idaho code § 18-6307,$200 - $1000,auditor-neglect of duty,1972,$200 ,"$1,000 ",n/a,n/a,"he is guilty of a felony and shall be punished by imprisonment in the state prision for not more than 1 year, or by a fine of not less than nor more than, or by both and shall be forthwith removed from office."
+Guiselle,idaho,id_118,idaho code § 18-6308,$200 - $1000,violation of revenue laws,1972,$200 ,"$1,000 ",n/a,n/a,guilty of a felony and must be punished by imprisonment in the state prision for not more than 1 year.
+,,,,,,1972,n/a,n/a,$300 ,,No information besides using the change in 2006 to know that the fine was $300.
+Sreelu,idaho,id_130,idaho code § 18-6805,$0 - $500,"punishment for removal, destruction or burning of electric lines or plants",1972,n/a,n/a,$500 ,,"could be punished by a fine not exceeding $500, or by imprisonment not to exceed 10 years or both "
+Sreelu,idaho,id_133,idaho code § 18-7001,$0 - $1000,malicious injury to property,1972,n/a,n/a,"$1,000 ",,"if damages caused exceed $1000, shall be punishable by imprisonment in the state prison for not less than one (1) year nor more than five (5) years"
+Sreelu,idaho,id_134,idaho code § 18-7002,$25 - $1000,criminal trespass  definition and punishment,1972,n/a,n/a,n/a,,could not find any data
+Sreelu,idaho,id_135,idaho code § 18-7018,$0 - $10000,injuring jails,1972,n/a,n/a,"$10,000 ",,and by imprisonment in the state prison not exceeding five years.
+Sreelu,idaho,id_136,idaho code § 18-7019,$0 - $1000,"injuring dams, canals, and other structures  penalty",1972,n/a,n/a,"$1,000 ",,"or by imprisonment in the state prison not exceeding two years, or by both."
+Sreelu,idaho,id_137,idaho code § 18-7020,$0 - $1000,"destroying lumber, poles, rafts, and vessels",1972,n/a,n/a,"$1,000 ",," or by imprisonment in the county jail not exceeding six (6) months, or by both such fine and imprisonment."
+Sreelu,idaho,id_138,idaho code § 18-7026,$0 - $5000,sabotage,1972,n/a,n/a,"$5,000 ",,punishable by imprisonment in the state prison not more than five (5) years or by imprisonment in the county jail not less than six (6) months
+Sreelu,idaho,id_140,idaho code § 18-7031,$150 - $1000,placing debris on public or private property,1972,n/a,n/a,$150 ,,
+Sreelu,idaho,id_146,idaho code § 18-7206,$0 - $1000,use of fraudulent scales for ore,1972,n/a,n/a,"$1,000 ",,"or by imprisonment in the county jail for a term of not more than one year nor less than one month, or by both such fine and imprisonment."
+Clark,idaho,id_07,idaho code § 18-605(1),$0 - $5000,unlawful abortions - procurement of - penalty,1973,,"$5,000 ",,,GIving abortion without liscense 
+Clark,idaho,id_09,idaho code § 18-606,$0 - $5000,unlawful abortions - accomplice or accessory - submitting to - penalty,1973,,"$5,000 ",,,Makes abortion or being an acessory to an aborition illegal
+,,,idaho code § 18-1517A,,"hiring, employing, etc., minor to engage in certain acts, penalty",1973,n/a,n/a,n/a,"misdemeanor, previous conviction = felony",no penalty laid out
+Nuhamin,idaho,id_89,idaho code § 18-4109,$0 - $1000,indecency and obscenity-punishment for violations,1973,n/a,n/a,"$1,000 ",,could be punished by imprisonment in the county jail for not more than six (6) months
+,,,,,,1973,n/a,n/a,"$1,000 ",,could be punished by imprisonment in the county jail for a period not exceeding 6 months
+,,,,,,1973,n/a,n/a,"$1,000 ",,"if damages caused exceed $1000, shall be punishable by imprisonment in the state prison for not less than one (1) year nor more than five (5) years"
+Sreelu,idaho,id_148,idaho code § 18-7503,$0 - $5000,weapons aboard aircraft-penalty,1973,n/a,n/a,"$5,000 ",,
+,,,,,,1974,$150 ,"$2,500 ",n/a,could be punished by imprisonment in the county jail not exceeding six (6) months,"first conviction: $150, 2nd conviction: $300, 3rd conviction: $1000"
+Nuhamin,idaho,id_94,idaho code § 18-4629,$0 - $1000,"penalty for transportation of forest products without a permit, contract, bill of sales, or product load receipt",1975,n/a,n/a,"$1,000 ",,could be punished by imprisonment in the county jail for a period not exceeding 6 months
+Guiselle,idaho,id_110,idaho code § 18-5906,$5 - $10,penalty for violation (no smoking in public meetings),1975,$5 ,$10 ,n/a,n/a,"a violation of section 18-5904, Idaho Code"
+,,,,,,1976,n/a,n/a,"$1,000 ",,could be punished by imprisonment in the county jail for not more than six (6) months
+Sreelu,idaho,id_149,idaho code § 18-7604,$0 - $10000,tape piracy act-penalties,1976,"$1,000 ","$10,000 ",n/a,,6 months to 4 years of imprisonment depending on the violation
+Guiselle,idaho,id_115,idaho code § 18-6106,Specific Costs incurred by the victim as a result of injury or loss caused by the criminal act,rape-restitution to victim,1977,n/a,n/a,n/a,n/a,No fine amount is specified; but they may be ordered by the court to provide resitution to the victim for the specific cost incuured by the victim as a result of injury or loss caused by the criminal act.
+Clark,idaho,id_18,idaho code § 18-902,$0 - $1000,assault  punishment,1979,,,,,
+Clark,idaho,id_19,idaho code § 18-904,$0 - $1000,battery  punishment,1979,,$500 ,,,Assult is not allowed
+Clark,idaho,id_20,idaho code § 18-914,$0 - $5000,felonious administering of drugs  punishment,1979,,"$5,000 ",,,Cannot illegally administer drugs
+Guiselle,idaho,id_127,idaho code § 18-6715,$0 - $5000,forgery of telegraphic messages,1980,n/a,n/a,"$5,000 ",n/a,"punishable by imprisonment in the state prision for a term not to exceed five years, or by a fine not to exceed or both."
+Guiselle,idaho,id_128,idaho code § 18-6716,$0 - $5000,opening telegrams,1980,n/a,n/a,n/a,n/a,"punishable as provided in section 18-6715, Idaho Code."
+Clark,idaho,id_29,idaho code § 18-1502,$0 - $3000,"beer, wine or other alcohol age violations  fines",1981,,,,,
+,,,,,,1981,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+,,,,,,1981,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+,,,,,,1981,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+,,,,,,1981,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+,,,,,,1981,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+Guiselle,idaho,id_119,idaho code § 18-6309,$0 - $5000,impersonation of revenue officer,1981,n/a,n/a,"$5,000 ",n/a,guilty of a felony and on conviction thereof shall be punished by imprisonment in the state prision for a period of not more than five years or by a fine or both.
+Guiselle,idaho,id_120,idaho code § 18-6402,$0 - $25000,riot  felony  misdemeanor  punishment,1981,n/a,n/a,"$25,000 ",,
+Sreelu,idaho,id_150,idaho code § 18-7804,$0 - $25000,racketeering act-prohibited activities-penalties,1981,n/a,n/a,"$25,000 ",,
+Clark,,,,,,1982,,$300 ,,,Assult fine
+Clark,idaho,id_27,idaho code § 18-1353a,$0 - $1000,"threats against state officials of the executive, legislative or judicial branch or elected officials of a county or city",1982,,"$1,000 ",,,Threats againts the state
+Clark,,,,,,1982,,,,,
+,,,,,,1983,,"$1,000 ",,,Resisting arrest or obtructing an officer
+Clark,,,,,,1983,,,,Scaling penalty up to $100 for first offense 2nd offense is $200 $300 for subsequent offenses,unkown
+Clark,idaho,id_34,idaho code § 18-1507,$0 - $50000,definitions  sexual exploitation of a child  penalties,1983,,,,,
+Nuhamin,idaho,id_88,idaho code § 18-4007,$0 - $15000,punishment for manslaughter,1983,"$10,000 ","$15,000 ",n/a,,"voluntary = 15,000; involuntary = 10,000"
+Sreelu,idaho,id_151,idaho code § 18-7903,$0 - $5000,malicious harassment-penalties-criminal and civil,1983,n/a,n/a,"$5,000 ",,"punishable by imprisonment in the state prison for a period not to exceed five (5) years, or by both imprisonment and fine"
+Nuhamin,idaho,id_84,idaho code § 18-3905,$0 - $1000,transportation of hazardous waste,1984,n/a,n/a,"$10,000 ",,could be punished by imprisonment for a period of not more than six (6) months
+Sreelu,idaho,id_139,idaho code § 18-7028,$0 - $10000,unlawful removal of human remains  malice  intent to sell,1984,n/a,n/a,"$10,000 ",,"punishable by imprisonment in the state penitentiary for not more than five (5) years, by a fine, or by both fine and imprisonment"
+Sreelu,idaho,id_147,idaho code § 18-7027,$0 - $1000,alteration of ore values,1984,n/a,n/a,"$1,000 ",,punishment for a misdemeanor 
+Sreelu,idaho,id_155,idaho code § 18-8001,"$0 - $3000 Up to 1,000 dollars for first/second offense and up to 3,000 dollarsor more for third/greater offense",driving without privileges,1984,n/a,n/a,n/a,,
+Sreelu,idaho,id_156,idaho code § 18-8002,$250 ,"tests of driver for alcohol concentration, presence of drugs or other intoxicating substances  penalty and suspension upon refusal of tests",1984,n/a,n/a,n/a,,
+Julia,idaho,id_35,idaho code § 18-1509,$0 - $1000,enticing of children,1985,n/a,n/a,"$1,000 ","misdemeanor, fine and/or imprisonment",
+Clark,idaho,id_2,idaho code § 18-112a,$0 - $50000,fine authorized,1986,,"$5,000 ",,,You can also recieve an additional fine even if the initial felony has a punishment
+,,,,,,1986,$150 ,"$2,500 ",n/a,could be punished by imprisonment in the county jail not exceeding six (6) months,"first conviction: $150, 2nd conviction: $300, 3rd conviction: $1000"
+Clark,,,,,,1987,,"$25,000 ",,,
+,,,,,,1987,n/a,n/a,"$5,000 ",,"punishable by imprisonment in the state prison for a period not to exceed five (5) years, or by both imprisonment and fine"
+,,,,,,1987,n/a,n/a,n/a,,
+,,,,,,1987,n/a,n/a,n/a,,
+,,,,,,1987,n/a,n/a,n/a,,
+,,,idaho code § 18-1512A,,"advertising for adoption, prohibited acts",1988,n/a,n/a,n/a,,no penalty laid out
+,,,,,,1988,n/a,n/a,n/a,,
+Clark,,,,,,1989,,,,Scaling penalty up to $100 for first offense 2nd offense is $200 $300 for subsequent offenses,"procurment, sale, or distribution of alcohol when under age requirements"
+Clark,,,,,,1989,,,,Scaling penalty up to $100 for first offense 2nd offense is $200 $300 for subsequent offenses,Drivers liscense will be suspended as well
+Julia,idaho,id_36,idaho code § 18-1510,$0 - $1001,providing shelter to runaway children,1989,n/a,n/a,"$5,000 ",fine and/or imprisonment,included new provisions regarding licensed and registered childrens care facilities
+,,,,,,1989,$25 ,"$3,000 ",n/a,,
+,,,,,,1989,n/a,n/a,n/a,,
+,,,,,,1989,n/a,n/a,n/a,,
+,,,,,,1989,n/a,n/a,n/a,,
+,idaho,id_163,idaho code § 18-8005(1),$0 - $1000,motor vehicles-penalties,1989,$0 ,"$1,000 ",n/a,180 license suspension; may be sentenced to jail max 6 mo,
+,idaho,id_164,idaho code § 18-8005(2),$0 - $1000,motor vehicles-penalties,1989,$0 ,"$2,000 ",n/a,imprisonment 6 mo to 1 yr; revoked license 6 mo to 1 year after jail,restricted privileges to be requested 30 days after confinement release
+,idaho,id_165,idaho code § 18-8005(3),$0 - $1000,motor vehicles-penalties,1989,$0 ,"$5,000 ",n/a,jail 30 days and prison up to 5 yrs; revoked license 1-5 yrs after imprisonment,no privileges granted
+,idaho,id_166,idaho code § 18-8005(4),$0 - $2000,motor vehicles-penalties,1989,$0 ,"$5,000 ",n/a,,same penalties offered as 2-3rd offenses
+,idaho,id_167,idaho code § 18-8005(6),$0 - $5000 plus suspended drivers license,motor vehicles-penalties,1989,$0 ,"$5,000 ",n/a,alcohol evaluation - possible mandatory treatment,same penalties offered as 2-3rd offenses
+,idaho,id_168,idaho code § 18-8006,$0 - $5000,"aggravated driving while under the influence of alcohol, drugs or any other intoxicating substances",1989,$0 ,"$5,000 ",n/a,jail 30 days; up to 5 yrs in prison; license suspension,
+,idaho,id_169,tT,Amount of restitution,"aggravated driving while under the influence of alcohol, drugs or any other intoxicating substances",1989,,,,,Restitution? Mentioned but no detail
+Cassandra,idaho,id_170,idaho code § 18-8007,$0 - $5000,leaving scene of accident resulting in injury or death,1989,$0 ,"$5,000 ",n/a,imprisonment up to 5 yrs; revoked license 1 yr,
+Cassandra,idaho,id_186,idaho code § 31-3201b,$15 ,peace officers standards and training-fee,1989,n/a,n/a,$4 ,,
+Cassandra,idaho,id_193,idaho code § 49-673,$10 ,safety restraint use,1989,n/a,n/a,$5 ,,
+Cassandra,idaho,id_196,idaho code § 49-1401,$0 - $2000,reckless driving,1989,$25 ,$300 ,n/a,possible jail time 5 days to 6 mo,
+Clark,idaho,id_28,idaho code § 18-1360,$0 - $1000,bribery and corruption-penalties,1990,,"$1,000 ",,Also they may pay a resititution to the office they hold,Fine to politicians who accept bribe
+Clark,,,,,,1990,,,,Scaling penalty up to $100 for first offense 2nd offense is $200 $300 for subsequent offenses,"Further clarifies drivers law, applied the law to just men"
+Nuhamin,idaho,id_68,idaho code § 18-3302a,$0 - $1000,sale of weapons to minors,1990,n/a,n/a,"$1,000 ",Fine and/or imprisonment,"unlawful to directly or indirectly sell or deliver, loan or barter to any minor under the age of sixteen"
+Guiselle,idaho,id_125,idaho code § 18-6711a,$0 - $1000,false alarms  complaints  reports  penalties  civil damages,1990,n/a,n/a,$500 ,,guilty of a misdemeanor and upon conviction thereof shall be sentenced to a fine not to exceed or to term of not to exceed 1 year in the county jail or both.
+,,,,,,1990,"$1,000 ","$5,000 ",n/a,,
+,,,,,,1990,$75 ,"$3,000 ",n/a,,
+,,,,,,1990,n/a,n/a,n/a,,
+Cassandra,idaho,id_184,idaho code § 31-3201,$2 - $10 Base cost + price per page,clerk of district court-fees,1990,$2 ,$15 ,n/a,,max can increase based on copies needed
+Cassandra,idaho,id_182,idaho code § 19-5304,restitution,restitution for crime victims  orders to be separate  when restitution is not appropriate  other remedies  evidentiary hearings  definitions,1991,,,n/a,,"value of property, lost wages, and/or direct losses/expenses as a result of the crime"
+Clark,,,,,,1992,,"$1,000 ",,,Now applies to legislative members and judicial members
+Clark,,,,,,1992,,"$25,000 ",,,
+Nuhamin,idaho,id_74,idaho code § 18-3316,$0 - $5000,unlawful possession of a firearm,1992,n/a,n/a,"$5,000 ",imprisonment in the state prison for a period of time not to exceed five (5) years,
+,,,,,,1992,"$10,000 ","$15,000 ",n/a,,"voluntary = 15,000; involuntary = 10,000"
+,,,,,,1992,$25 ,"$5,000 ",n/a,,
+,,,,,,1992,n/a,n/a,n/a,,
+,,,,,,1992,n/a,n/a,n/a,,
+Cassandra,idaho,id_174,idaho code § 18-8201,$0 - $25000 plus restitution,money laundering and illegal investment  penalty  restitution,1992,$0 ,"$250,000 ",n/a,imprisonment 10 yrs max,fine may be twice as amt laundered (whichever is greater)
+Cassandra,idaho,id_183,idaho code § 19-5307,$0 - $5000,fines in cases of crimes of violence,1992,$0 ,"$5,000 ",n/a,,in addition to any other fines/sentencing from violation
+Clark,idaho,,,,,1993,,"$50,000 ",,,Fine increased by ten times 
+Clark,idaho,id_15,idaho code § 18-802,$0 - $100000,arson in first degree  burning of dwelling or other structures where persons are normally present  penalties,1993,,"$100,000 ",,,Can't commit arson where there are people
+Clark,idaho,id_16,idaho code § 18-803,$0 - $75000,arson in the second degree  burning of a structure  penalties,1993,,"$75,000 ",,,Cant burn a building down
+Clark,idaho,id_17,idaho code § 18-804,$0 - $50000,arson in the third degree  burning of real or personal property or forest land  penalties,1993,,"$50,000 ",,,Arson on forests or other property
+Clark,idaho,id_21,idaho code § 18-918,$0 - $10000,domestic violence,1993,,,,Penalty scales per offense first offense is 1k second is 2k and third beyond is 5k,
+Clark,idaho,id_30,idaho code § 18-1502b,$0 - $300,possession of inhalants by minors,1993,,$300 ,,,"Possesion of inhalent(whip it, galaxy gas ECT)"
+Clark,idaho,id_33,idaho code § 18-1505a,$0 - $5000,abandoning a vulnerable adult,1993,,"$5,000 ",,,
+Nuhamin,idaho,id_69,idaho code § 18-3302d,$0 - $1000,possessing weapons or firearms on school property,1993,n/a,n/a,"$1,000 ",Fine and/or imprisonment,"might have jail term of not more than one (1) year, or if a minor, not in excess of one hundred twenty (120) days in a juvenile detention facility"
+,,,,,,1993,$300 ,"$25,000 ",n/a,,varying levels of fine and imprisonment according to controlled substance involved
+,,,,,,1993,n/a,n/a,n/a,,
+Cassandra,idaho,id_185,idaho code § 31-3201a(2); idaho code § 31-3201a(3),$16.50 - $17.50,court fees,1993,$7 ,$32 ,n/a,,
+,,,,,,1994,,"$50,000 ",,,Same ten times increase(done in same bill)
+,,,,,,1994,,$300 ,,,
+Clark,idaho,id_4,idaho code § 18-113a,$0 - $300 See I.I.R. Rule 9 and https://isc.idaho.gov/rules/Infraction_Fee_Schedule_08.15.16.pdf for infraction fee schedule ,punishment for infraction,1994,,$300 ,,,Fines can be added in addition to penalty in misdamenors
+Clark,,,,,,1994,,,,"Scaling penalty up to $1000 for first offense 2nd offense is up to $2000, up to $3000 for subsequent offenses",Penalty fine increased by ten times
+Clark,idaho,id_31,idaho code § 18-1502c,$0 - $1000,possession of marijuana or drug paraphernalia by a minor  use of controlled substances  fines,1994,,$300 ,,,Marijiuana illegal to poses
+Clark,idaho,id_32,idaho code § 18-1505,$0 - $25000,"abuse, exploitation or neglect of a vulnerable adult",1994,,"$5,000 ",,,Abandoning a vunerable adult
+Clark,,,,,,1994,,"$5,000 ",,,
+,,,,,,1994,n/a,n/a,"$1,000 ",Fine and/or imprisonment,Unlawful to directly or indirectly sell to any minor under the age of EIGHTEEN years
+,,,,,,1994,"$10,000 ","$15,000 ",n/a,,"voluntary = 15,000; involuntary = 10,000"
+,,,,,,1994,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+,,,,,,1994,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+,,,,,,1994,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+,,,,,,1994,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+,,,,,,1994,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+Guiselle,idaho,id_105,idaho code § 18-5609,$0 - $50000,utilizing a person under eighteen years of age for prostitution-penalties,1994,n/a,n/a,"$50,000 ",n/a,Incuding a person under eighteen years of age under prostitution icluding inducing or attemps to induce a person shall be guilty of a felony which is punishable by penitentiary for a period of no less than 2 years which may be extended to life imprisonment or by a fine not exceeding.
+Guiselle,,,,,,1994,n/a,n/a,"$50,000 ",n/a,"Used to be $1,000 fine and besides the fine they are able to be punished by imprisonment in the state prision not exceeding 10 years or by both or in the disrection in the court."
+Guiselle,idaho,id_112,idaho code § 18-6007,$0 - $50000,theft of car parts-murder by wrecking,1994,n/a,n/a,"$50,000 ",n/a,Specifes theft and not larceny as before. The person committing it is punishable of a felony and upon conviction thereof shall be subject to punishment by imprisonment in the penitentiary not less than 1 nor more than 14 years (used to be 5)
+Guiselle,idaho,id_113,idaho code § 18-6008,$0 - $50000,receiving stolen car parts,1994,n/a,n/a,n/a,n/a,No amount was stated but the person convicted is guilty of a felony and upon thereof shall be subject to the punishment provided in section 18-6007 Idaho Code.
+Guiselle,idaho,id_114,idaho code § 18-6012,$0 - $1000,offences against railroads,1994,n/a,n/a,"$1,000 ",n/a,Fine used to be $100 and they could be imprisoned in the county jail not exceeding six months or by both.
+,,,,,,1994,n/a,n/a,$300 ,,"also punishable by 6 months in county jail or both imprisonment and fine, or 40 hours"
+Sreelu,idaho,id_141,idaho code § 18-7039(6),cost of restitution,"killing and otherwise mistreating police dogs, police horses, search and rescue dogs and accelerant detection dogs",1994,n/a,n/a,n/a,,
+Sreelu,idaho,id_142,idaho code § 18-7039,$0 - $10000,"killing and otherwise mistreating police dogs, police horses, search and rescue dogs and accelerant detection dogs",1994,"$1,000 ","$10,000 ",n/a,,"shall be punished by imprisonment in the state penitentiary for a period not to exceed five (5) years, or by both such fine and imprisonment; shall be punished by imprisonment for not more than one (1) year or by both such fine and imprisonment."
+,,,,,,1994,$500 ,"$5,000 ",n/a,,
+Sreelu,idaho,id_158,idaho code § 18-8004a(1),$0 - $1000,penalties  persons under 21 with less than 0.08 alcohol concentration,1994,n/a,n/a,"$1,000 ",,
+Sreelu,idaho,id_159,idaho code § 18-8004a(2),$500 - $2000,penalties  persons under 21 with less than 0.08 alcohol concentration,1994,$500 ,"$2,000 ",n/a,,
+Sreelu,idaho,id_160,idaho code § 18-8004a(3),$1000 - $2000,penalties  persons under 21 with less than 0.08 alcohol concentration,1994,"$1,000 ","$2,000 ",n/a,,
+Sreelu,idaho,id_161,idaho code § 18-8004c(1),$0 - $2000,excessive alcohol concentration  penalties,1994,n/a,n/a,"$2,000 ",,one (1) year period absolutely no driving privileges of any kind may be granted
+Sreelu,idaho,id_162,idaho code § 18-8004c(2),$0 - $5000,excessive alcohol concentration  penalties,1994,n/a,n/a,"$5,000 ",,
+Cassandra,idaho,id_187,idaho code § 31-3201c,$0.60 - $0 0.6 dollars and hour,community service fee,1994,n/a,n/a,$1 ,,
+Clark,,,,,,1995,,,,"Penalty scales per offense first offense is 1k second is 2k and third beyond is 5k,alternative is counciling of which the defendent will pay a resitution of all funds if goverment funds are used",Funding for people who see if counciling is needed from 31-3201Aq
+Clark,,,,,,1995,,"$1,000 ",,,"Fine increased, insurance companies cannot use this information to adjust rates"
+,,,,,,1995,n/a,n/a,"$1,000 ",Fine and/or imprisonment,"might have jail term of not more than one (1) year, or if a minor, not in excess of one hundred twenty (120) days in a juvenile detention facility"
+Clark,,,,,,1996,,$500 ,,,Fined doubled if person was pregnant
+Clark,,,,,,1996,,,,"Penalty scales per offense first offense is 1k second is 2k and third beyond is 5k,alternative is counciling of which the defendent will pay a resitution of all funds if goverment funds are used",Only for Adult members of the household
+Clark,idaho,id_22,idaho code § 18-919,$0 - $1000,sexual exploitation by a medical care provider,1996,,"$1,000 ",,,Sexual explotation by a medical worker
+Clark,,,,,,1996,,"$1,000 ",,,Grammer
+Clark,,,,,,1996,,"$1,000 ",,,Being under the influence of marijiuana counts as possession
+Cassandra,idaho,id_171,idaho code § 18-8010,$15 ,motor vehicles-surcharge added to all fines,1996,n/a,n/a,$15 ,,"originally used to purchase interlock devices, amended to be used toward other probation programs in the county"
+Cassandra,idaho,id_194,idaho code § 49-657,$50 ,work zone speed limits-penalty,1996,n/a,n/a,$50 ,,
+Clark,idaho,id_23,idaho code § 18-920,$0 - $5000,violation of no contact order,1997,,"$1,000 ",,,Violation of no contact order
+Nuhamin,idaho,id_75,idaho code § 18-3319,$0 - $5000,unlawful possession of bombs or destructive devices,1997,n/a,n/a,"$5,000 ",five (5) years in prison,
+Nuhamin,idaho,id_77,idaho code § 18-3320,$0 - $25000,unlawful use of destructive device or bomb,1997,n/a,n/a,"$25,000 ",life in prison,
+,,,,,,1997,"$10,000 ","$15,000 ",n/a,,"voluntary = 15,000; involuntary = 10,000"
+Guiselle,idaho,id_108,idaho code § 18-5811,$50 - $1500,action required to avoid accident or injury to disabled person  prohibited intentional actions  penalties,1997,$50 ,"$1,500 ",n/a,n/a,"Intentionally fails to stop, change course, or speak or take such other action is necessary to avoid any injury or acciddent to the disabled person, the assistance device or dog, is guilty of a misdemeanor, punishable by imprisonment in the county jail not exceeding 6 months or by a fine not less than no more than or both."
+Guiselle,idaho,id_109,idaho code § 18-5812,$0 - $5000 plus costs,battery to disabled persons and assistance dogs-penalties,1997,n/a,n/a,"$5,000 ",n/a,"Intentionally causes injury, or death of any assistance dog or dog in-training is guilty of a misdemeanor is punishable by imprisonment in county jail not exceeding one year, or by a fine not exceeding or both."
+Guiselle,idaho,id_126,idaho code § 18-6713,$0 - $1000,theft of telecommunication services,1997,$300 ,"$1,000 ",,,"The first conviction is $300 and they should be imprisoned in the county jail for a term not to exceed 6 months and the second conviction or subsequent violation shall be punished by a fine not to exceed $1,000 or by imprisonment not to exceed 1 year"
+,,,,,,1997,n/a,n/a,"$1,000 ",,
+,,,,,,1997,$500 ,"$2,000 ",n/a,,
+,,,,,,1997,"$1,000 ","$2,000 ",n/a,,
+Clark,,,,,,1998,,,,"Penalty scales per offense first offense is 1k second is 2k and third beyond is 5k, fine is doubled if in presence of a child. Alternative is counciling of which the defendent will pay a resitution of all funds if goverment funds are used",Removed the only adult members
+Clark,,,,,,1998,,,,"All fines listed are their maximum. If it results is a great bodily injury it is considered a felony the fine is 10k. If not it is a misdemenor, penalty scales per offense first offense is 1k second is 2k and third beyond is 5k, fine is doubled if in presence of a child. Alternative is counciling of which the defendent will pay a resitution of all funds if goverment funds are used",Defines child as someone under 16
+Clark,,,,,,1998,,"$1,000 ",,,Specifies laws under which no contact applies
+Clark,,,,,,1998,,,,"Scaling penalty up to $1000 for first offense 2nd offense is up to $2000, up to $3000 for subsequent offenses",Clarifies how conviction cannot be used for insurance rates
+,,,,,,1998,n/a,n/a,"$1,000 ",,"if damages caused exceed $1000, shall be punishable by imprisonment in the state prison for not less than one (1) year nor more than five (5) years"
+,,,,,,1998,$500 ,"$3,000 ",n/a,,
+,,,,,,1998,$500 ,"$3,000 ",n/a,,
+Cassandra,idaho,id_175,idaho code § 18-8311,$0 - $5000,sexual offender registration notification and community right-to-know act-penalties,1998,$0 ,"$5,000 ",n/a,imprisonment 5 yrs max,fail to register as sex offender
+Cassandra,idaho,id_176,idaho code § 18-8318,Cost of service,offender to pay for psychosexual evaluation,1998,,,n/a,,cost of service range?
+Cassandra,idaho,id_177,idaho code § 18-8326,$0 - $1000,sexual offender registration notification and community right-to-know act-penalties for vigilantism or other misuse of information obtained under this chapter,1998,$0 ,"$1,000 ",n/a,jail 1 yr max,
+Cassandra,idaho,id_178,idaho code § 18-8409,$0 - $1000,"juvenile sex offender registration notification and community right-to-know act-failure to register, penalties",1998,$0 ,"$1,000 ",n/a,,failure to register or update name/address
+Cassandra,idaho,id_179,idaho code § 18-8413,$0 - $1000,juvenile sex offender registration notification and community right-to-know act-penalties for vigilantism or other misuse of information obtained under this chapter,1998,$0 ,"$1,000 ",n/a,jail 1 yr max,
+Cassandra,idaho,id_188,idaho code § 31-3201d,$75 - $0,county misdemeanor probation supervision fee,1998,n/a,n/a,$35 ,,monthly fee during probation
+Clark,,,,,,1999,,"$1,000 ",,,Updated chapters of law
+Julia,idaho,id_48,idaho code § 18-1522,$0 - $1013,"unauthorized school bus entry, notice",1999,n/a,n/a,n/a,misdemeanor,no penalty laid out
+,,,,,,1999,n/a,n/a,"$1,000 ",,
+,,,,,,1999,$500 ,"$2,000 ",n/a,,
+,,,,,,1999,"$1,000 ","$2,000 ",n/a,,
+,,,,,,2000,,$500 ,,,Applied to women
+Clark,,,,,,2000,,,,"All fines listed are their maximum. If it results is a great bodily injury it is considered a felony the fine is 10k. If not it is a misdemenor, penalty scales per offense first offense is 1k second is 2k and third beyond is 5k, fine is doubled if in presence of a child. Alternative is counciling of which the defendent will pay a resitution of all funds if goverment funds are used",Defines battery
+Clark,,,,,,2000,,"$1,000 ",,,Further specifies laws under which no contact applies
+Clark,,,,,,2000,,"$1,000 ",,,If convicted of something which would require no conctact law still applies
+Clark,,,,,,2000,,"$1,000 ",,,Applies to city councilmen
+,,,,,,2000,n/a,n/a,"$5,000 ",fine and/or imprisonment,
+,,,,,,2000,"$1,000 ","$10,000 ",n/a,"misdemeanor, fine","punished by a fine of not less than one thousand dollars ($ 1,000) nor more than ten thousand dollars ($ 10,000)."
+,,,,,,2000,n/a,n/a,"$1,000 ",Fine and/or imprisonment,"might have jail term of not more than one (1) year, or if a minor, not in excess of one hundred twenty (120) days in a juvenile detention facility"
+,,,,,,2000,n/a,n/a,"$1,000 ",,
+,,,,,,2000,$500 ,"$2,000 ",n/a,,
+,,,,,,2000,"$1,000 ","$2,000 ",n/a,,
+,,,,,,2000,n/a,n/a,"$2,000 ",,
+,,,,,,2000,n/a,n/a,"$5,000 ",,
+,,,,,,2001,,"$5,000 ",,,Specifying what it means to not be liscensed
+Clark,idaho,id_08,idaho code § 18-605(2),"$1000 - $0 minimum of 2,500 for second offense and 5,000 for subsequentoffenses",unlawful abortions - procurement of - penalty,2001,,"$1,000 ",,,Applies to people who are certified with health care
+,,,,,,2001,n/a,n/a,"$5,000 ",five (5) years in prison,
+Cassandra,idaho,id_189,idaho code § 31-3201e,$0 - $300,drug court and mental health court fee-drug court and mental health court fund,2001,$0 ,$300 ,n/a,,funds only allocated to drug court expenses
+Clark,,,,,,2002,,"$1,000 ",,,People under 18 are now under this law
+,,,,,,2002,n/a,n/a,"$5,000 ",imprisonment in the state prison for a period of time not to exceed five (5) years,
+,,,,,,2002,"$10,000 ","$15,000 ",n/a,,"voluntary = 15,000; involuntary = 10,000"
+Guiselle,idaho,id_123,idaho code § 18-6702,$0 - $5000,"interception and disclosure of wire, electronic or oral communications prohibited",2002,n/a,n/a,"$5,000 ",n/a,shall be guilty of a felony and is punishable by imprisonment in the state prision for a term not to exceed five years or by a fine not to exceed or by both.
+Guiselle,idaho,id_124,idaho code § 18-6703,"$5,000 ","manufacture, distribution, possession, and advertising of wire, electronic or oral communication intercepting devices prohibited.",2002,n/a,n/a,"$5,000 ",n/a,shall be guilty of a felony and is punishable by imprisonment in the state penitentiary for a term of five years or by a fine or by both.
+Sreelu,idaho,id_131,idaho code § 18-6810,$0 - $1000,intentional destruction of a telecommunication line or telecommunication instrument,2002,n/a,n/a,"$1,000 ",,county jail imprisonment upto 1 year
+Sreelu,idaho,id_143,idaho code § 18-7040(4),cost of restitution,interference with agricultural research,2002,n/a,n/a,n/a,,
+Sreelu,idaho,id_144,idaho code § 18-7040(2),$0 - $10000,interference with agricultural research,2002,n/a,n/a,"$10,000 ",,"shall be punished by a term of imprisonment of not more than twenty (20) years, or by both fine and imprisonment"
+,,,,,,2002,n/a,n/a,"$5,000 ",,"punishable by imprisonment in the state prison not exceeding five (5) years, or by both fine and imprisonment"
+,,,,,,2002,n/a,n/a,"$1,000 ",,
+,,,,,,2002,$500 ,"$2,000 ",n/a,,
+,,,,,,2002,"$1,000 ","$2,000 ",n/a,,
+Cassandra,idaho,id_172,idaho code § 18-8103,$0 - $50000,terrorist control act-prohibited activities-penalties,2002,$0 ,"$50,000 ",n/a,imprisonment 10 yrs to life,March 2002; shortly after 9/11
+Cassandra,idaho,id_173,idaho code § 18-8106,$0 - $50000,providing material support to terrorists,2002,$0 ,"$50,000 ",n/a,imprisonment 15 yrs max,March 2002; shortly after 9/11
+Cassandra,idaho,id_190,idaho code § 31-3201f,$150 ,abandoned vehicle fee,2002,n/a,n/a,$150 ,,funds moved to abandoned vehicle trust account
+Clark,,,,,,2003,,,,"All fines listed are their maximum. If it results is a great bodily injury it is considered a felony the fine is 10k. If not it is a misdemenor, penalty scales per offense first offense is 1k second is 2k and third beyond is 5k, fine is doubled if in presence of a child. Alternative is counciling of which the defendent will pay a resitution of all funds if goverment funds are used",Capitalizes Q from 31-3201AQ
+Clark,,,,,,2003,,"$1,000 ",,,Redefined the chapters
+,,,idaho code §18-1509A,,"enticing a child through use of the internet or other communication device, penalties, jurisdiction",2003,n/a,n/a,n/a,"felony, imprisonment",punished by imprisonment in the state prison for a period not to exceed fifteen (15) years
+Guiselle,idaho,id_121,idaho code § 18-6601,$100 - $1000,adultery,2003,n/a,n/a,n/a,n/a,
+,,,,,,2003,n/a,n/a,"$1,000 ",,county jail imprisonment upto 1 year
+,,,,,,2003,$500 ,"$3,000 ",n/a,,
+,,,,,,2003,n/a,n/a,$10 ,,
+Clark,,,,,,2004,,,,"All fines listed are their maximum. If it results is a great bodily injury it is considered a felony the fine is 10k. If not it is a misdemenor, penalty scales per offense first offense is 1k second is 2k and third beyond is 5k, fine is doubled if in presence of a child. Alternative is counciling of which the defendent will pay a resitution of all funds if goverment funds are used",Reorganizes statuet
+Clark,,,,,,2004,,"$1,000 ",,,Even further specifies laws under which no contact applies
+Clark,,,,,,2004,,$300 ,,,Redefined the chapters
+Julia,idaho,id_49,idaho code § 18-1523,$0 - $1014,"minors, tattooing, branding, tanning devices and body piercings",2004,$500 ,"$1,000 ",,misdemeanor,fine
+,,,,,,2004,n/a,n/a,"$5,000 ",n/a,
+Sreelu,idaho,id_152,idaho code § 18-7905,$0 - $10000,stalking in the first degree,2004,n/a,n/a,"$10,000 ",," imprisonment in the state prison for not less than one (1) year nor more than five (5) years, or by both such fine and imprisonment."
+Sreelu,idaho,id_153,idaho code § 18-7906,$0 - $1000,stalking in the second degree,2004,n/a,n/a,"$1,000 ",,"punishable by imprisonment in the county jail for not more than one (1) year or by a fine, or by both"
+,,,,,,2005,,"$1,000 ",,,Fine increased
+,,,,,,2005,,"$1,000 ",,,Fine increased
+Clark,,,,,,2005,,"$1,000 ",,,Over trippled the fine
+Clark,,,,,,2005,,"$1,000 ",,,Fine now same across the board
+Clark,,,,,,2005,,,,"All fines listed are their maximum. If it results is a great bodily injury it is considered a felony the fine is 10k. If not it is a misdemenor, penalty scales per offense first offense is 1k second is 2k and third beyond is 5k, fine is doubled if in presence of a child. Alternative is counciling of which the defendent will pay a resitution of all funds if goverment funds are used",Removes willfuly from requirement of felony domestic battery
+Clark,,,,,,2005,,,,$25000 for felony $1000 for misdamenor,Felony when great bodily harm occurs or if explotation exceeds 1000 in monitary gain
+Clark,,,,,,2005,,"$5,000 ",,,
+Nuhamin,idaho,id_73,idaho code § 18-3312,$0 - $1000,injuring another by careless handling and discharge of firearms,2005,n/a,n/a,"$1,000 ",,"could be punished by imprisonment in the county jail for not more than six (6) months, or by both such fine and imprisonment."
+,,,,,,2005,$100 ,"$1,000 ",n/a,,could be punished by imprisonment in the county jail not less than thirty (30) days nor more than six (6) months.
+,,,,,,2005,n/a,n/a,"$1,000 ",,could be punished by imprisonment in the county jail for a period not exceeding 6 months
+,,,,,,2005,n/a,n/a,"$1,000 ",,could be punished by imprisonment in the county jail for a period not exceeding 6 months
+,,,,,,2005,n/a,n/a,"$1,000 ",,
+,,,,,,2005,n/a,n/a,"$1,000 ",,The convition amount is now the same for first and second
+Sreelu,idaho,id_132,idaho code § 18-6903,$0 - $5000,prohibition against piracy,2005,n/a,n/a,"$5,000 ",,"upon conviction shall be imprisoned for not more than one (1) year, or shall be punished by both such fine and imprisonment."
+,,,,,,2005,n/a,n/a,"$1,000 ",,"imprisonment in the county jail for up to one (1) year or a fine, or both(...) if damages caused exceed $1000, shall be punishable by imprisonment in the state prison for not less than one (1) year nor more than five (5) years"
+,,,,,,2005,$100 ,"$3,000 ",n/a,,
+,,,,,,2005,n/a,n/a,"$1,000 ",,
+,,,,,,2005,$500 ,"$2,000 ",n/a,,
+,,,,,,2005,"$1,000 ","$2,000 ",n/a,,
+Cassandra,,,,,,2005,$7 ,$39 ,n/a,,
+Cassandra,,,,,,2005,$7 ,$44 ,n/a,,changed one month after last change
+,,,,,,2005,$0 ,$500 ,n/a,jail 1 yr max,
+Clark,,,,,,2006,,"$50,000 ",,,Grammer fixes and fine doubled
+Nuhamin,idaho,id_71,idaho code § 18-3305,$0 - $1000,discharge of arms aimed at another,2006,n/a,n/a,"$1,000 ",or imprisonment in the county jail not to exceed six (6) months,
+Nuhamin,idaho,id_72,idaho code § 18-3306,$50 - $1000,injuring another by discharge of aimed firearms,2006,$50 ,"$1,000 ",n/a,,"could be punished by  imprisonment in the county jail for a period of not more than one (1) year; and if death ensue from such wounding or maiming, such person so offending shall be deemed guilty of the crime of manslaughter."
+,,,,,,2006,n/a,n/a,"$1,000 ",,could be punished by imprisonment in the county jail for a period of not more than six (6) months
+,,,,,,2006,n/a,n/a,"$1,000 ",,could be punished by imprisonment in the county jail for not more than six (6) months
+,,,,,,2006,n/a,n/a,"$1,000 ",,could be punished by imprisonment in the county jail not exceeding six (6) months
+,,,,,,2006,n/a,n/a,"$1,000 ",,could be punished by imprisonment in the county jail for a period not exceeding 6 months
+,,,,,,2006,n/a,n/a,n/a,n/a,
+Guiselle,idaho,id_129,idaho code § 18-6801,$0 - $1000,removal or obstruction of telephone or telegraph lines or equipment,2006,n/a,n/a,"$1,000 ",n/a,"guilty of a misdemeanor and upon conviction thereof shall be punished by a fine not exceeding (used to be $300 now $1,000) or by imprisonment in the county jail for not more than 6 months or both."
+,,,,,,2006,n/a,n/a,"$1,000 ",,"6 month imprisonment in county jail or fine; 3 years of state imprisonment or 6 months in county jail where where the crime was punishable by imprisonment in the state prison for any other term than for life; By imprisonment in the state prison not exceeding five years or in a county jail not exceeding one year, where the crime was punishable by death or imprisonment in the state prison for life."
+,,,,,,2006,n/a,n/a,"$1,000 ",,"By imprisonment in the state prison not exceeding five years, or in a county jail not exceeding one year where the crime was punishable by death or imprisonment in the state prison for life; By imprisonment in the state prison not exceeding three years, or in the county jail not exceeding six months where the crime was punishable by imprisonment in the state prison for any other term than for life; By imprisonment in the county jail not exceeding six months or by fine. "
+,,,,,,2006,n/a,n/a,$250 ,,suspension of driving privileges immediately for one hundred eighty (180) days for a first refusal and one (1) year for a second refusal within five (5) years
+,,,,,,2006,n/a,n/a,n/a,,
+Cassandra,idaho,id_180,idaho code § 18-8505,$0 - $50000,supplying firearms to a criminal gang,2006,$0 ,"$50,000 ",n/a,imprisonment 10 yrs max,
+Cassandra,,,,,,2006,$9 ,$50 ,n/a,,
+,,,,,,2006,$0 ,"$2,000 ",n/a,jail 1 yr max,
+,,,,,,2007,,"$5,000 ",,,Adds a knowingly requirement
+,,,,,,2007,,"$1,000 ",,,Knowignly requirement 
+,,,,,,2007,n/a,n/a,"$1,000 ",or imprisonment in the county jail not to exceed six (6) months,
+,,,,,,2007,"$1,000 ","$3,000 ",n/a,,
+Cassandra,idaho,id_181,idaho code § 18-8604,restitution,human trafficking-restitution-rehabilitation,2007,,,n/a,,gross income/value of labor or labor according to min wage/overtime standards
+Clark,idaho,id_10,idaho code § 18-615,$0 - $5000,criminal act to coerce or attempt to coerce a woman to obtain an abortion,2008,,"$5,000 ",,,Trying to encourage a women to get abortion
+Clark,,,,,,2008,,"$5,000 ",,,quintupiles fine
+Clark,,,,,,2008,,,,$25000 for felony $1000 for misdamenor,clarifies definition of abuse
+Guiselle,idaho,id_106,idaho code § 18-5702,$0 - $10000,grading and punishment for misuse of funds,2008,"$1,000 ","$10,000 ",n/a,"$5,000 ","Applys to any employee who is not charged with the recepit, safekeeping or distribiument of public moneys and who misuse public moneys in violation of section 18-5701, Idaho code, is guilty of a misdemeanor punishable by a fine not exceeding, or by imprisonment in the county jail not exceeding one year, or by both. If the amount of public moneys misused is less than $300. * Any public officer or public employee charged with a receipt, safekeeping, or disbursement of publics money who misuses publics money under the section, Idaho code is guily of a felony punishable by a fine not exceeding or by imprisonment in state prision for not more than 5 years or by both, if the amount of moneys misused is less than $300."
+Guiselle,,,,,,2008,"$1,000 ","$10,000 ",n/a,n/a,"Includes any public employee, public officer.  Excpet as otherwise provided in subdivison 1 and 2 of this section, is guilty of  a felony punishable by a fine not exceeding $10,000 or by imprisonment in the state prision for not less than 1 year nor more than 14 years of both."
+,,,,,,2008,n/a,n/a,$75 ,,monthly fee during probation
+Cassandra,idaho,id_195,idaho code § 49-658,$75 - $0,school zone speed limit-penalty,2008,n/a,n/a,$75 ,,
+Clark,,,,,,2009,,,,"All fines listed are their maximum. If it results is a great bodily injury it is considered a felony the fine is 10k. If not it is a misdemenor, penalty scales per offense first offense is 1k second is 2k and third beyond is 5k, fine is doubled if in presence of a child. Alternative is counciling of which the defendent will pay a resitution of all funds if goverment funds are used",Changes q from funding to 16 resulting in 31-3201A16
+Clark,,,,,,2009,,,,$25000 for felony $1000 for misdamenor,further defines what vuneraboe adult means
+,,,,,,2009,"$10,000 ","$15,000 ",n/a,,"voluntary = 15,000; involuntary = 10,000"
+,,,,,,2009,n/a,n/a,$250 ,,
+,,,,,,2009,n/a,n/a,$250 ,,
+,,,,,,2009,n/a,n/a,"$1,000 ",,"Shall have his driving privileges suspended by the court for a period of one (1) year, ninety (90) days of which shall not be reduced and during which period absolutely no driving privileges of any kind may be granted."
+,,,,,,2009,$500 ,"$2,000 ",n/a,,Shall be sentenced to jail for a mandatory minimum period of five (5) days
+,,,,,,2009,"$1,000 ","$2,000 ",n/a,,Shall be sentenced to jail for a mandatory minimum period of ten (10) days
+,,,,,,2009,n/a,n/a,"$2,000 ",,
+,,,,,,2009,n/a,n/a,"$5,000 ",,
+Cassandra,idaho,id_197,idaho code § 49-1421a,$100 ,high occupancy vehicle lanes  penalties  definitions,2009,n/a,n/a,$100 ,,
+Clark,,,,,,2010,,"$1,000 ",,,Further redefiened chapters
+Nuhamin,idaho,id_76,idaho code § 18-3319a,$0 - $15000,unlawful acts  hoax destructive device,2010,n/a,n/a,"$15,000 ",imprisonment in the state prison not to exceed fifteen (15) years,
+Cassandra,idaho,id_191,idaho code § 31-3201h,$10 - $100,surcharge fee,2010,$10 ,$100 ,n/a,,fee applies per infraction/misdemeanor/felony; 80% to drug/mental health court and 20% to legislative tech fund
+,,,,,,2011,"$1,000 ","$3,000 ",n/a,,
+,,,,,,2011,n/a,n/a,$250 ,,
+,,,,,,2011,n/a,n/a,$250 ,,
+,,,,,,2011,n/a,n/a,"$2,000 ",,
+,,,,,,2011,n/a,n/a,"$5,000 ",,
+Clark,,,,,,2012,,"$50,000 ",,$10000 for only possesion,
+,,,,,,2012,n/a,n/a,n/a,"felony, imprisonment",punished by imprisonment in the state prison for a period not to exceed fifteen (15) years
+,,,,,,2012,n/a,n/a,"$1,000 ",,
+Cassandra,idaho,id_192,idaho code § 31-3204,$15 ,victim notification-fee,2012,n/a,n/a,$10 ,,
+,,,,,,2014,n/a,n/a,$250 ,,
+,,,,,,2014,n/a,n/a,"$2,000 ",,
+,,,,,,2014,n/a,n/a,"$5,000 ",,
+Cassandra,,,,,,2014,$9 ,$175 ,n/a,,all fees significantly increased
+,,,,,,2014,n/a,n/a,$15 ,,
+Cassandra,idaho,id_198,idaho code § 49-1422,$100 - $500,overtaking and passing school bus,2014,$100 ,$500 ,n/a,,
+,,,,,,2015,$500 ,"$1,000 ",,misdemeanor,fine
+,,,,,,2015,n/a,n/a,"$5,000 ",imprisonment in the state prison for a period of time not to exceed five (5) years,
+,,,,,,2015,$150 ,"$2,500 ",n/a,could be punished by imprisonment in the county jail not exceeding six (6) months,"first conviction: $150, 2nd conviction: $300, 3rd conviction: $1001"
+,,,,,,2015,$150 ,"$2,500 ",n/a,could be punished by imprisonment in the county jail not exceeding six (6) months,"first conviction: $150, 2nd conviction: $300, 3rd conviction: $1002"
+,,,,,,2015,$150 ,"$1,000 ",n/a,,imprisonment in the county jail not exceeding thirty (30) days; and public service of not less than eight (8) hours and not more than forty (40) hours may be imposed 
+Clark,,,,,,2016,,,,"Scaling penalty up to $1000 for first offense 2nd offense is up to $2000, up to $3000 for subsequent offenses","Record will be sealed if you have no drug related crimes within 5 years of conviction, though the defendent must innitiate it"
+Clark,,,,,,2016,,,,"Scaling penalty of $300 for first offense 2nd offense is up to $2000, up to $3000 for subsequent offenses",Initial penalty lowered to 300 but is fixed
+Clark,,,,,,2016,,,,$25000 for felony $1000 for misdamenor,No change(?)
+Clark,,,,,,2016,,"$50,000 ",,$10000 for only possesion,Only a misdemenor if person is less than three years younger
+Sreelu,idaho,id_145,idaho code § 18-7043,$0 - $10000,intentional breach of biosecurity,2016,n/a,n/a,"$10,000 ",,"shall be punished by a term of imprisonment of not more than twenty (20) years or by a fine not in excess of ten thousand dollars ($ 10,000), or by both such fine and imprisonment"
+Sreelu,idaho,id_154,idaho code § 18-7907,$0 - $5000,action for protection,2016,n/a,n/a,"$5,000 ",,punishable by not to exceed one (1) year in jail
+Clark,,,,,,2017,,,,Repealed,Repealed
+Clark,,,,,,2018,,,,"All fines listed are their maximum. If it results is a great bodily injury it is considered a felony the fine is 10k. If not it is a misdemenor, penalty scales per offense first offense is 1k second is 2k and third beyond is 5k, fine is doubled if in presence of a child. Alternative is counciling of which the defendent will pay a resitution of all funds if goverment funds are used","Supreme court now deems who can council, and the victim now helps in deciding counciling "
+,,,,,,2018,n/a,n/a,"$1,000 ",Fine and/or imprisonment,might have a jail term of not more than one (1) year
+,,,,,,2018,$150 ,"$1,000 ",n/a,,
+,,,,,,2018,n/a,n/a,$250 ,,
+Guiselle,,,,,,2019,$50 ,"$1,500 ",n/a,n/a,"appearing to be an individual with a disability. * For the 1,500 it's for any person who, without justification intentionally interfers with the use of a service dog, or an assistance device by obstructing, battering, or intimidating the user of a device dog is guilty of a misdemeanor in the county jail not exceeding 6 months or by a fine not less than nor more than or both."
+Guiselle,,,,,,2019,n/a,n/a,"$5,000 ",n/a,permits any animal that is harbored
+,,,,,,2019,n/a,n/a,"$5,000 ",,
+,,,,,,2019,$200 ,$600 ,n/a,,
+,,,,,,2020,n/a,n/a,"$1,000 ",,could be punished by imprisonment in the county jail for a period not exceeding 6 months
+,,,,,,2021,n/a,n/a,$250 ,,suspend all the defendant’s driving privileges immediately for one (1) year for a first refusal and two (2) years for a second refusal within ten (10) years 
+,,,,,,2022,n/a,n/a,n/a,n/a,"The statue changed from ""18-6602 to 16601"" and it states that any person willfully marriages or enganges in sexual intercourse known to be under section 32-205, Idaho Code is guilty of a felony. Punishable up to 15 years, however if the victim is under 18 at the time of the violation, such violation is punishable by imprisonment in the state prision for a term not to exceed life."
+Guiselle,idaho,id_122,idaho code § 18-6603,$0 - $300,fornication,2022,n/a,n/a,n/a,n/a,guilty of a felony if that person engages in sexual contact with human remains. Any person who violates the section may be punished by imprisonment in state prision for a term not to exceed five years.
+,,,,,,2022,n/a,n/a,"$10,000 ",,
+Nuhamin,idaho,id_102,idaho code § 18-5606,$1000 - $50000,accepting earnings of prostitute,2023,n/a,n/a,"$50,000 ",n/a,could be punished by imprisonment for a period of not more than twenty (20) years
+Clark,,,,,,2024,,,,"All fines listed are their maximum. If it results is a great bodily injury it is considered a felony the fine is 10k. If not it is a misdemenor, penalty scales per offense first offense is 1k second is 2k and third beyond is 5k, fine is doubled if in presence of a child. Alternative is counciling of which the defendent will pay a resitution of all funds if goverment funds are used",Strangulation explicitly stated in the law
+Clark,,,,,,2024,,"$50,000 ",,$10000 for only possesion,"The person must be identifiable as a child, describes the definition of it"
+,,,,,,2024,n/a,n/a,"$5,000 ",fine and/or imprisonment,
+,,,,,,2024,n/a,n/a,"$5,000 ",fine and/or imprisonment,
+,,,,,,2024,n/a,n/a,"$5,000 ","misdemeanor, fine and/or imprisonment",
+,,,,,,2024,n/a,n/a,,n/a,included new provisions including invalid and revoked licenses
+,,,,,,2024,n/a,n/a,n/a,$250 ,"any minor, parent, or legal guardian who prevails in an action brought under this section may recover two hundred fifty dollars ($250) in statutory damages as well as actual damages"
+,,,idaho code § 18-1517B,,children’s school and library protection,2024,n/a,n/a,n/a,$250 ,"any minor, parent, or legal guardian who prevails in an action brought under this section may recover two hundred fifty dollars ($250) in statutory damages as well as actual damages"
+Nuhamin,idaho,id_97,idaho code § 18-5601,$1000 - $50000,interstate trafficking in prostitution,2024,n/a,n/a,n/a,n/a,n/a
+,,,,,,2024,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+,,,,,,2024,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+,,,,,,2024,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+,,,,,,2024,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+,,,,,,2024,n/a,n/a,"$50,000 ",n/a,could be punished by imprisonment for a period of not more than twenty (20) years
+Nuhamin,idaho,id_103,idaho code § 18-5607,$1000 - $50000 Na,harboring prostitutes,2024,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+,,,,,,2024,"$1,000 ","$50,000 ",n/a,n/a,could be punished by imprisonment for a period of no less than two (2) years and no more than twenty (20) years
+Guiselle,,,,,,2024,n/a,n/a,"$50,000 ",n/a,"every person who attemps to induce a child to engage in commerical sexual activity shall be guilty of  a felony punishable by imprisonment in the state penitentiary for a period of no more than 2 years, which may be extended to life in prision or by a fine or both."
+,,,,,,2024,$300 ,"$1,000 ",n/a,,
+Julia,idaho,id_50,idaho code § 18-1524,$0 - $1015,"prohibiting defacing, altering or obliterating numbers  sales prohibited  penalty",n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_51,idaho code § 18-1525,$0 - $1016,unlawful use of theft detection shielding devices,n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_52,idaho code § 18-1526,$0 - $1017,theft-penalties,n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_53,idaho code § 18-1527,$0 - $1018,rescuing prisoners,n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_54,idaho code § 18-1528,$0 - $1019,officer&#039;s assisting in escape,n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_55,idaho code § 18-1529,$0 - $1020,"punishment for violation of preceding section (inmates of public institutions  enticing, aiding to escape, harboring or employing unlawful)",n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_56,idaho code § 18-1530,$0 - $1021,"possession, introduction or removal of certain articles into or from correctional facilities",n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_57,idaho code § 18-1531,$0 - $1022,"destruction, alteration or concealment of evidence",n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_58,idaho code § 18-1532,$0 - $1023,officers not to purchase scrip,n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_59,idaho code § 18-1533,$0 - $1024,making appointments for reward,n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_60,idaho code § 18-1534,$0 - $1025,false imprisonment-punishment,n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_61,idaho code § 18-1535,$0 - $1026,false personation,n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_62,idaho code § 18-1536,$0 - $1027,intimidation by false assertion of authority,n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_63,idaho code § 18-1537,$0 - $1028,"false statement by commission merchant, broker, agent, factor or consignee to principal or consignor",n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_64,idaho code § 18-1538,$0 - $1029,drawing check without funds  drawing check with insufficient funds  prima facie evidence of intent  standing of person having acquired rights  probation conditions,n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_65,idaho code § 18-1539,$0 - $1030,"false pretenses, cheats and misrepresentations- penalty for violation",n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_66,idaho code § 18-1540,$0 - $1031,"false pretenses, cheats and misrepresentations- penalty for violation",n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Julia,idaho,id_67,idaho code § 18-1541,$0 - $1032,"private person stealing, mutilating or falsifying public records",n/a,n/a,n/a,n/a,n/a,no record of this statute!
+Nuhamin,idaho,id_70,idaho code § 18-3302d,$5 - $1000,aiming firearms at others,n/a,n/a,n/a,n/a,n/a,n/a
+Sreelu,idaho,id_157,idaho code § 18-8002a,unknown,"tests of driver for alcohol concentration, presence of drugs or other intoxicating substances  suspension upon failure of tests",n/a,n/a,n/a,n/a,,
+Guiselle,,,,,,,,,,,

@@ -1,11 +1,14 @@
 import { React, useState } from "react";
+import { useNavigate } from "react-router-dom";
 import USAMap from "react-usa-map";
 
 const Main = () => {
   const [hoveredState, setHoveredState] = useState(null);
-
+  const navigate = useNavigate();
   const mapHandler = (event) => {
-    alert(event.target.dataset.name);
+    const stateAbbr = event.target.dataset.name;
+    navigate(`/state/${stateAbbr}`); 
+    //alert(event.target.dataset.name);
   };
 
   // Default colors and hover customization
