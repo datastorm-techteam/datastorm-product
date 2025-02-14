@@ -3,17 +3,8 @@ import * as d3 from "d3";
 import styled from "styled-components";
 import PropTypes from "prop-types";
 
-const ChartContainer = styled.div`
-  width: 100%;
-  height: 500px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: relative;
-`;
-
 const Tooltip = styled.div`
-  position: absolute;
+  // position: absolute;
   background: rgba(0, 0, 0, 0.75);
   color: white;
   padding: 6px 10px;
@@ -102,16 +93,16 @@ const BarChart = ({ data }) => {
           .style("top", `${y}px`);
       })
       .on("mouseout", () => {
-        tooltip.style("opacity", 0);
+        // tooltip.style("opacity", 0);
       });
 
   }, [data]);
 
   return (
-    <ChartContainer>
+    <div className="flex flex-col w-full h-full flex justify-center items-center relative">
       <svg ref={svgRef}></svg>
       <Tooltip ref={tooltipRef} />
-    </ChartContainer>
+    </div>
   );
 };
 
